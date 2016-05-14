@@ -4,12 +4,34 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Meu nome é Marcello Benigno, sou professor do curso superior de tecnologia em Geoprocessamento do [(IFPB)](http://www.ifpb.edu.br).
 
-### More Information
+### Interesses:
 
-A place to include any other types of information that you'd like to include about yourself.
+Softwares de SIG Desktop:
 
-### Contact me
+* QGIS
+* GRASS
+* ArcGIS
 
-[email@domain.com](mailto:email@domain.com)
+Banco de Dados Geográficos:
+
+* PostGIS
+* spatialite
+
+WebGIS / WebMapping:
+
+* Mapserver
+* Geoserver
+* Leaflet
+* GeoDjango
+* p.mapper
+
+Linguagens de Programação:
+
+* Python
+* PHP
+
+### Contato:
+
+[benigno.marcello@gmail.com](mailto:benigno.marcello@gmail.com)
