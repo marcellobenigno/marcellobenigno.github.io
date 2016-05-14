@@ -1,12 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre o autor&#58;
 permalink: /about/
 ---
 
-Meu nome é Marcello Benigno, sou professor do curso superior de tecnologia em Geoprocessamento do [(IFPB)](http://www.ifpb.edu.br).
+* Professor do curso superior de tecnologia em Geoprocessamento do [IFPB](http://www.ifpb.edu.br);
+* Mestre em Ciências Geodésicas e Tecnologias da Geoinformação;
+* Especialista em Programação para Web.
 
-### Interesses:
+
+## Interesses:
 
 Softwares de SIG Desktop:
 
@@ -17,13 +20,14 @@ Softwares de SIG Desktop:
 Banco de Dados Geográficos:
 
 * PostGIS
-* spatialite
+* Spatialite
 
 WebGIS / WebMapping:
 
 * Mapserver
 * Geoserver
 * Leaflet
+* OpenLayers
 * GeoDjango
 * p.mapper
 
@@ -31,7 +35,3 @@ Linguagens de Programação:
 
 * Python
 * PHP
-
-### Contato:
-
-[benigno.marcello@gmail.com](mailto:benigno.marcello@gmail.com)
