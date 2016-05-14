@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Banco de Dados Geográficos
-permalink: /about/
+permalink: /bdg/
 ---
 
 
