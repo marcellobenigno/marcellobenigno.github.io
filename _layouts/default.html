@@ -23,10 +23,13 @@
       <div class="container">
         <header class="masthead clearfix">
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
-
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a> <img src="{{ site.baseurl }}/images/map_ico.png" width="6%" height="6%" alt="Map"></h1>
+            <p class="site-description">
+              <strong>{ </strong>
+                {{ site.description }} 
+                <strong>}</strong>
+            </p>
           </div>
 
           <nav>

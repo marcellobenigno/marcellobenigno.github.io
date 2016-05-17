@@ -4,9 +4,7 @@ title: Banco de Dados Geográficos
 permalink: /bdg/
 ---
 
-
-## Aulas da disciplina de Banco de Dados Geográficos
-
+## Notas de aula da disciplina de Banco de Dados Geográficos
 
 <div class="posts">
   
