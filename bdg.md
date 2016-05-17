@@ -9,13 +9,9 @@ permalink: /bdg/
 <div class="posts">
   
     <article class="post">
-
-      <ul>
       {% for post in site.categories.bdg %}
-      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+      	<a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> <br>
       {% endfor %}
-      </ul>
-
     </article>
   
 </div>
